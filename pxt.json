@@ -1,0 +1,27 @@
+{
+    "name": "semafor",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "commit/534e7416414a54bd69febea388d0294cb5f21296/.vscode/settings.json",
+        "commit/534e7416414a54bd69febea388d0294cb5f21296/.vscode/tasks.json",
+        "commit/534e7416414a54bd69febea388d0294cb5f21296/README.md",
+        "commit/534e7416414a54bd69febea388d0294cb5f21296/main.blocks",
+        "commit/534e7416414a54bd69febea388d0294cb5f21296/main.ts",
+        "commit/534e7416414a54bd69febea388d0294cb5f21296/pxt.json",
+        "commit/534e7416414a54bd69febea388d0294cb5f21296/test.ts",
+        "commit/534e7416414a54bd69febea388d0294cb5f21296/tsconfig.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
